@@ -1,3 +1,12 @@
+# Weather App
+
+This application provides detailed weather details for a location specified by the user. Built using React, Typescript and Styled Component and Open Weather API for showing latest weather data.
+
+# Snapshot:
+
+![image](https://user-images.githubusercontent.com/53818754/235935208-846490a2-0660-4ff6-a9a8-0d4a4404b5d6.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
